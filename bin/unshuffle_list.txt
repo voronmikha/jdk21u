@@ -50,6 +50,7 @@ src/java.xml.bind : jaxws/src/java.xml.bind
 src/java.xml.crypto : jdk/src/java.xml.crypto
 src/java.xml.ws : jaxws/src/java.xml.ws
 src/java.xml.ws.annotation : jaxws/src/java.xml.ws.annotation
+src/ru.npsystems : ru.npsystems
 src/jdk.accessibility : jdk/src/jdk.accessibility
 src/jdk.aot : hotspot/src/jdk.aot
 src/jdk.attach : jdk/src/jdk.attach
